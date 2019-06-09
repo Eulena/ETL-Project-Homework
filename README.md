@@ -9,7 +9,7 @@ This dataset includes a record for every federal emergencies or disasters declar
 QUESTION: Which United States President declared the highest number of Federal Emergencies and Disasters? 
 ANSWER: George W. Bush
 
-![final_app.png](Images/Disaster_Count.PNG)
+![final_app_part4.png](Images/Disaster_Count.PNG)
 
 ## Prerequisites
 * Jupyter Notebook (pandas)
@@ -40,7 +40,8 @@ LIBRARY OF CONGRESS - `https://www.loc.gov/rr/print/list/057_chron.html`(Preside
 * Load data to PostgreSQL Database (relational)
 (Please see file Disasters_declared.ipynb)
 
-![final_app.png](Images/LOAD-Result-disaster_db.PNG)
+
+![final_app_part4.png](Images/LOAD-Result-disaster_db.PNG)
 
 
 
