@@ -23,7 +23,7 @@ This dataset includes a record for every federal emergencies or disasters declar
 Extract CSVs into DataFrames:
 * FEMA - `https://www.fema.gov/media-library/assets/documents/28318`(DisasterDeclarationsSummaries.csv)
 * LIBRARY OF CONGRESS - `https://www.loc.gov/rr/print/list/057_chron.html`(Presidents.csv)
-`
+&nsdp
 __(Please see file Disasters_declared.ipynb)__
 
 
@@ -33,15 +33,15 @@ __(Please see file Disasters_declared.ipynb)__
 * Summarized Data using value_counts to show count of disasters declared by each President
 * Rearranged columns in meaningful order
 * Renamed the column headers
-`
+```
 __(Please see file Disasters_declared.ipynb)__
 
 
 ## LOAD:
 * Created Database Connection to PostgreSQL
 * Loaded data to PostgreSQL Database (relational)
-* database created in PostgreSQL as __"disaster_db"__
-`
+* database created in PostgreSQL as __"disasters_db"__
+```
 __(Please see file Disasters_declared.ipynb)__
 
 
