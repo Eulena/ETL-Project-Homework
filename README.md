@@ -39,7 +39,7 @@ Extracted CSVs into DataFrames:
 
 ## LOAD:
 * Created Database Connection to PostgreSQL
-* Loaded data to PostgreSQL Database (relational)
+* Launched PostreSQL and data loaded to PostgreSQL Database (relational)
 * database created in PostgreSQL as __"disasters_db"__
 
 #### (Please see file Disasters_declared.ipynb)
