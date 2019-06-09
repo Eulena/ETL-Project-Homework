@@ -20,9 +20,9 @@ This dataset includes a record for every federal emergencies or disasters declar
 
 
 ## EXTRACTION (Data Sources)
-* Extract CSVs into DataFrames
-FEMA - `https://www.fema.gov/media-library/assets/documents/28318`(DisasterDeclarationsSummaries.csv)
-LIBRARY OF CONGRESS - `https://www.loc.gov/rr/print/list/057_chron.html`(Presidents.csv)
+Extract CSVs into DataFrames:
+* FEMA - `https://www.fema.gov/media-library/assets/documents/28318`(DisasterDeclarationsSummaries.csv)
+* LIBRARY OF CONGRESS - `https://www.loc.gov/rr/print/list/057_chron.html`(Presidents.csv)
 (Please see file Disasters_declared.ipynb)
 
 
