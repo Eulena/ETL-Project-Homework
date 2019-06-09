@@ -20,11 +20,11 @@ This dataset includes a record for every federal emergencies or disasters declar
 
 
 ## EXTRACTION (Data Sources)
-Extract CSVs into DataFrames:
+Extracted CSVs into DataFrames:
 * FEMA - `https://www.fema.gov/media-library/assets/documents/28318`(DisasterDeclarationsSummaries.csv)
 * LIBRARY OF CONGRESS - `https://www.loc.gov/rr/print/list/057_chron.html`(Presidents.csv)
 
-### (Please see file Disasters_declared.ipynb)
+#### (Please see file Disasters_declared.ipynb)
 
 
 ## TRANSFORMATION: (Data Cleanup & Analysis)
@@ -34,7 +34,7 @@ Extract CSVs into DataFrames:
 * Rearranged columns in meaningful order
 * Renamed the column headers
 
-### (Please see file Disasters_declared.ipynb)
+#### (Please see file Disasters_declared.ipynb)
 
 
 ## LOAD:
@@ -42,7 +42,7 @@ Extract CSVs into DataFrames:
 * Loaded data to PostgreSQL Database (relational)
 * database created in PostgreSQL as __"disasters_db"__
 
-### (Please see file Disasters_declared.ipynb)
+#### (Please see file Disasters_declared.ipynb)
 
 ![final_app_part4.png](Images/LOAD_disaster_db.PNG)
 
